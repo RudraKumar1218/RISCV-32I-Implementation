@@ -16,7 +16,7 @@ Directory Structure
 
 RISCV-32I-Implementation
   |
-  |- bin
+  |- bin 
     |- RISCV
     |- Data Memory.mc
   |- doc
